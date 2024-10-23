@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "banner": "https://img.freepik.com/free-photo/aerial-view-icy-shores-arctic-sea_181624-44185.jpg",
+      "author_name": "Jane Doe",
+      "author_img": "https://img.freepik.com/free-photo/portrait-young-woman-smiling-against-snowy-background_1258-2221.jpg",
+      "publish_date": "2024-10-22",
+      "reading_time": "5 min",
+      "title": "Exploring the Wonders of the Arctic",
+      "tags": ["travel", "adventure", "arctic", "nature"]
+    },
+    {
+      "id": 2,
+      "banner": "https://img.freepik.com/free-photo/doctor-wearing-lab-coat-with-stethoscope_53876-112828.jpg",
+      "author_name": "John Smith",
+      "author_img": "https://img.freepik.com/free-photo/confident-male-doctor-posing-studio_23-2148804385.jpg",
+      "publish_date": "2024-10-19",
+      "reading_time": "8 min",
+      "title": "The Future of AI in Healthcare",
+      "tags": ["technology", "AI", "healthcare", "innovation"]
+    },
+    {
+      "id": 3,
+      "banner": "https://img.freepik.com/free-photo/young-woman-meditating-nature_23-2148656720.jpg",
+      "author_name": "Emily Clark",
+      "author_img": "https://img.freepik.com/free-photo/happy-female-sitting-ground-holding-yoga-mat_1157-37020.jpg",
+      "publish_date": "2024-10-15",
+      "reading_time": "10 min",
+      "title": "A Beginner's Guide to Mindfulness",
+      "tags": ["wellness", "mindfulness", "mental health", "self-care"]
+    },
+    {
+      "id": 4,
+      "banner": "https://img.freepik.com/free-photo/group-girls-jumping-with-shopping-bags-city_1303-28879.jpg",
+      "author_name": "Michael Brown",
+      "author_img": "https://img.freepik.com/free-photo/fashion-stylist-posing-colorful-background_23-2149442480.jpg",
+      "publish_date": "2024-10-10",
+      "reading_time": "6 min",
+      "title": "Sustainable Fashion Trends for 2024",
+      "tags": ["fashion", "sustainability", "eco-friendly", "trends"]
+    },
+    {
+      "id": 5,
+      "banner": "https://img.freepik.com/free-photo/mountain-landscape-himalayas-nepal-tourism-trekking-hiking_127089-79.jpg",
+      "author_name": "Sarah Lee",
+      "author_img": "https://img.freepik.com/free-photo/portrait-happy-asian-woman-wearing-hiking-gear-outdoors_23-2148657654.jpg",
+      "publish_date": "2024-10-05",
+      "reading_time": "7 min",
+      "title": "Top 10 Hiking Trails Around the World",
+      "tags": ["travel", "hiking", "adventure", "nature"]
+    }
+  ]
+  
